@@ -32,6 +32,7 @@ code {
 	width: 25%;
 	height: 80vh;
 	border-radius:15px;
+	overflow: auto;
 	box-shadow: 5px 5px 25px -5px rgba(0,0,0,0.5);
 }
 h1{
